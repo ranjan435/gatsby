@@ -7,7 +7,7 @@ export default function Home() {
     <div className="mainDiv">
       {/* <div className="card"> */}
         <div className="socialFixedIcons card">
-          <h2>Follow me</h2>
+          <h2>Follow me on Social Platform</h2>
           <ul>
             <li><FontAwesomeIcon icon={faFacebook}/></li>
             <li><FontAwesomeIcon icon={faInstagram} /></li>
